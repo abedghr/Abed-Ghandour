@@ -25,6 +25,7 @@
 ![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
 ![Slack](https://img.shields.io/badge/-Slack-222222?style=flat&logo=slack&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![JWT](https://img.shields.io/badge/-JWT-222222?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Yii2](https://img.shields.io/badge/-Yii2-222222)
 ![Laravel](https://img.shields.io/badge/-Laravel-222222?style=flat&logo=laravel)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=bootstrap&logoColor=white)
