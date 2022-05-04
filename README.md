@@ -28,6 +28,5 @@
 ![Yii2](https://img.shields.io/badge/-Yii2-blue)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
-![ES6](https://github.com/MarioTerron/logo-images/blob/master/logos/es6.png)
 ![NodeJs](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![VueJs](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_vue.png?raw=true)
+![VueJs](https://img.shields.io/badge/-Vue-222222?style=flat&logo=Vue.js)
