@@ -26,6 +26,7 @@
 ![Slack](https://img.shields.io/badge/-Slack-222222?style=flat&logo=slack&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Yii2](https://img.shields.io/badge/-Yii2-222222)
+![Yii2](https://www.yiiframework.com/image/design/logo/yii3_sign_white.png)
 ![Laravel](https://img.shields.io/badge/-Laravel-222222?style=flat&logo=laravel)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![NodeJs](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
