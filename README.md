@@ -30,6 +30,8 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-222222?style=flat&logo=laravel)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
+![jQuery](https://img.shields.io/badge/-Less-222222?style=flat&logo=less&logoColor=0769AD)
+![jQuery](https://img.shields.io/badge/-Gulp-222222?style=flat&logo=gulp&logoColor=0769AD)
 ![NodeJs](https://img.shields.io/badge/-NodeJS-222222?style=flat&logo=node.js&logoColor=339933)
 ![VueJs](https://img.shields.io/badge/-Vue-222222?style=flat&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
