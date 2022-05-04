@@ -1,6 +1,6 @@
 ##### Hi, I'm Abed-alrahman Al-Ghandour:
 
-- 🎓Computer science graduate from Zarqa university.
+- 🎓 Computer science graduate from Zarqa university.
 - :test_tube: Full-Stack developer with the most common frontend & backend languages.
 - :speech_balloon: Ask me about frontend, backend, problem-solving.
 - :mailbox: You can reach me with the links below
